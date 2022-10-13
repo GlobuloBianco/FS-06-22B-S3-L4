@@ -45,5 +45,4 @@ document.getElementById('aggiunto').innerHTML = animali; // push
 var sonoInutile = animali.pop('leone')
 document.getElementById('estratto').innerHTML = animali; // pop
 document.getElementById('verifica1').innerHTML = animali.includes('criceto'); //true
-document.getElementById('verifica2').innerHTML = animali.includes('Qualora ti sentissi inutile e depresso, ricordati che un giorno sei stato lo spermatozoo più veloce di tutti.');
-//false
+document.getElementById('verifica2').innerHTML = animali.includes('Qualora ti sentissi inutile e depresso, ricordati che un giorno sei stato lo spermatozoo più veloce di tutti.'); //false
